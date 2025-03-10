@@ -1,0 +1,12 @@
+Ecco alcuni dei modi in cui gli individui possono contribuire alla lotta contro la povertà :
+
+-\x1B[32m Sostenere le organizzazioni che lavorano per alleviare la povertà\x1B[37m.
+
+-\x1B[32m Offrire il proprio tempo e le proprie competenze per aiutare chi ne ha bisogno\x1B[37m.
+
+-\x1B[32m Donare in beneficenza a enti che lavorano per affrontare le cause profonde della povertà\x1B[37m.
+
+-\x1B[32m Informarsi sulla povertà e sulle sue cause\x1B[37m.
+
+-\x1B[32m Sostenere politiche che promuovono la crescita economica e la giustizia sociale\x1B[37m.
+

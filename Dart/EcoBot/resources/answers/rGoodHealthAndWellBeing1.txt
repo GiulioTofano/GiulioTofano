@@ -1,0 +1,27 @@
+Per prenderci cura della nostra salute e del nostro benessere possiamo adottare le seguenti
+regole :
+
+-\x1B[32m Esercitare una regolare attività fisica all’aperto\x1B[37m.
+
+-\x1B[32m Passare a una dieta leggera, bilanciata\x1B[37m.
+
+-\x1B[32m Accertarsi di bere a sufficienza\x1B[37m.
+
+-\x1B[32m Concedersi delle pause e del relax\x1B[37m.
+
+-\x1B[32m Dormire a sufficienza\x1B[37m.
+
+-\x1B[32m Esercitare e mantenete le proprie capacità intellettuali\x1B[37m.
+
+-\x1B[32m Mangiare e bere con moderazione\x1B[37m.
+
+-\x1B[32m Non fumare\x1B[37m.
+
+-\x1B[32m Essere in pace con se stessi\x1B[37m.
+
+-\x1B[32m Mantenere dei sani rapporti con le persone che ci circondano\x1B[37m.
+
+-\x1B[32m Guardare sempre agli aspetti positivi della vita\x1B[37m.
+
+-\x1B[32m Considerare gli 'ostacoli' come delle sfide\x1B[37m.
+

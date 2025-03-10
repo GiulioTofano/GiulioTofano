@@ -1,0 +1,25 @@
+La povertà è determinata da una serie di fattori :
+
+-\x1B[32m L’ambiente\x1B[37m. I repentini cambiamenti climatici e i disastri naturali mettono in ginocchio
+intere popolazioni.
+
+-\x1B[32m Guerre e conflitti\x1B[37m. Ogni anno, milioni di persone sono costretti a lasciare
+i loro Paesi, dilaniati dal peggiore degli orrori: la guerra.
+
+-\x1B[32m Sfruttamento dell’ambiente\x1B[37m. Colture intensive ed estensive, deforestazione selvaggia
+ed estrazione mineraria incontrollata impoveriscono il terreno.
+
+-\x1B[32m Violazione dei diritti umani fondamentali\x1B[37m. I diritti alla libertà, alla salute, all’istruzione
+e al cibo sono sistematicamente negati.
+
+-\x1B[32m Dipendenza e sfruttamento\x1B[37m. Ancora oggi, molti dei Paesi del sud del mondo sono dipendenti
+dai Paesi ricchi.
+
+-\x1B[32m Eccessiva espansione demografica\x1B[37m. La popolazione mondiale cresce sempre di più e ha sempre
+più bisogno di risorse.
+
+-\x1B[32m Mal distribuzione delle risorse\x1B[37m. Le risorse si concentrano nei Paesi più ricchi del nostro pianeta.
+
+-\x1B[32m Analfabetismo\x1B[37m. Chi non sa né leggere né scrivere non ha la possibilità di trovare un lavoro
+dignitoso e non ha gli strumenti per rivendicare i diritti fondamentali.
+

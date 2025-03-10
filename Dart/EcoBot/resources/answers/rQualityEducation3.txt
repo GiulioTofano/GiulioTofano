@@ -1,0 +1,5 @@
+\x1B[32mL'educazione inclusiva si riferisce all’approccio pedagogico
+che mira a personalizzare l’apprendimento per tutti gli studenti. Questo
+modello sostiene che ogni bambino ha il diritto di partecipare attivamente 
+in un ambiente educativo che valorizza le differenze individuali senza segregazione\x1B[37m.
+

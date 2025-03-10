@@ -1,0 +1,5 @@
+\x1B[32mPer il benessere fisico si consiglia di seguire un’alimentazione 
+sana e uno stile di vita che privilegia il movimento e l’attività fisica; 
+ma anche il benessere mentale è una componente importante e richiede uno 
+specifico atteggiamento della nostra personalità\x1B[37m.
+

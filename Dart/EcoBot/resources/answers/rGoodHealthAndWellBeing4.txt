@@ -1,0 +1,13 @@
+Nei paesi ad alto reddito prevalgono le malattie del benessere, 
+ossia malattie legate a diversi fattori come :
+
+-\x1B[32m Eccessiva alimentazione\x1B[37m.
+
+-\x1B[32m Inattività fisica\x1B[37m.
+
+-\x1B[32m Stress\x1B[37m.
+
+-\x1B[32m Inquinamento\x1B[37m.
+
+Questi fattori portano a conseguenze come malattie cardiovascolari, tumori e diabete.
+

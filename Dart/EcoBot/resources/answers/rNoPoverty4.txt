@@ -1,0 +1,7 @@
+Possono essere identificati due tipi di povertà :
+
+-\x1B[32m Povertà relativa\x1B[37m. Essenzialmente è una misura della disuguaglianza.
+
+-\x1B[32m Povertà assoluta\x1B[37m. E' identificata dal valore di un paniere di beni e 
+servizi ritenuti essenziali nel contesto sociale di riferimento.
+

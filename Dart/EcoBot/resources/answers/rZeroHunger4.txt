@@ -1,0 +1,10 @@
+\x1B[32mL’Indice Globale della Fame (o GHI, Global Hunger Index) è uno strumento 
+statistico per la raccolta di dati sulla fame nel mondo e sulla malnutrizione nei
+diversi Paesi. L’indicatore di maggiore impatto è rappresentato dalla 
+denutrizione, dato che mostra un’inversione di tendenza dopo oltre un 
+decennio di progressi. In continuità con il passato, si rileva che 46 Paesi 
+non raggiungeranno entro il 2030 un livello di fame basso e che anche più in
+generale il dato mondiale non sarà più positivo. Sono 44 le nazioni con livelli
+di fame gravi o allarmanti e, tra quelle con fame di categoria moderata, grave
+o allarmante, 20 hanno punteggi GHI più alti di quelli del 2014\x1B[37m.
+

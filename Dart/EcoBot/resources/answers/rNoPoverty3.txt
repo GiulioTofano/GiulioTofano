@@ -1,0 +1,41 @@
+Le misure di contrasto alla povertà potrebbero essere :
+
+-\x1B[32m Coinvolgere le istituzioni\x1B[37m. C’è bisogno dell’aiuto delle istituzioni per combattere
+la povertà e la fame nel mondo. Occorre adottare politiche economiche sostenibili,
+che tengano conto delle esigenze delle popolazioni più povere. Politiche
+che siano slegate dalla mera logica del profitto. Questo dovrebbe accadere
+sia a livello locale che a livello globale.
+
+-\x1B[32m Ridistribuire le risorse\x1B[37m. Ci sono Paesi che hanno troppo e Paesi che hanno 
+troppo poco. I primi sono i cosiddetti Paesi del Primo mondo. I secondi si
+trovano nel Sud del nostro pianeta. Eppure, ci sarebbero abbastanza risorse 
+per garantire a tutti una vita dignitosa. Basterebbe ridistribuirle
+in maniera giusta.
+
+-\x1B[32m Istruzione\x1B[37m. È una delle nostre battaglie. Esiste una forte correlazione tra
+istruzione e povertà. Chi non è istruito ha difficoltà a trovare lavoro e non
+può far valere e rivendicare i propri diritti. Uno dei modi per porre rimedio
+a questa situazione è costruire scuole che siano vicine ed economicamente
+accessibili per chi vive nei Paesi del Sud del mondo.
+
+-\x1B[32m Parità di genere\x1B[37m. In molti Paesi ci sono retaggi culturali che impediscono
+alla popolazione di risollevarsi dalla condizione di povertà estrema in cui
+vivono. Come quelli che limitano la libertà delle donne, a cui impediscono
+anche di potere lavorare ed essere indipendenti, spesso lontane dai luoghi
+dove si prendono le decisioni, relegate a mansioni degradanti, sottoposte 
+agli uomini. Le donne devono invece avere un ruolo attivo all’interno della
+società. Bisogna, però, che vengano riconosciuti e rispettati i diritti delle
+donne e delle bambine di tutto il mondo.
+
+-\x1B[32m Rendere autosufficienti i Paesi del Sud del mondo\x1B[37m. Sgombriamo il campo da
+un possibile equivoco: qui non stiamo parlando di carità. La questione è molto
+più profonda. I Paesi del Sud del mondo devono diventare autosufficienti, devono
+essere capaci di produrre in maniera autonoma ciò di cui hanno bisogno. Questo
+è un passaggio fondamentale per la lotta alla povertà.
+
+-\x1B[32m Coinvolgere le persone\x1B[37m. Per combattere la povertà c’è bisogno dell’aiuto di
+tutti. Ognuno di noi, nel suo piccolo, può fare qualcosa per aiutare i Paesi
+del Sud del mondo. Con il sostegno a distanza puoi fare davvero la differenza
+per cambiare la vita di tante persone, combattendo la fame e la povertà nel
+mondo, ogni giorno.
+

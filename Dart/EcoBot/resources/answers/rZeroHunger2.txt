@@ -1,0 +1,13 @@
+I paesi i paesi in cui si soffre di più la fame e con i più alti 
+tassi di insicurezza alimentare sono :
+
+-\x1B[32m Haiti\x1B[37m. 
+
+-\x1B[32m Mali\x1B[37m. 
+
+-\x1B[32m Sudan\x1B[37m. 
+
+-\x1B[32m Sud Sudan\x1B[37m. 
+
+-\x1B[32m Territori Palestinesi Occupati\x1B[37m.
+

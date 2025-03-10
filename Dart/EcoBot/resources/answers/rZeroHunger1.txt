@@ -1,0 +1,14 @@
+Le principali cause della fame nel mondo sono : 
+
+-\x1B[32m La carenza di cibo sano a prezzi accessibili\x1B[37m. 
+
+-\x1B[32m Le guerre\x1B[37m.
+
+-\x1B[32m Le disuguaglianze sociali ed economiche\x1B[37m. 
+
+-\x1B[32m Gli ambienti insalubri\x1B[37m. 
+
+-\x1B[32m La scarsità di acqua potabile e sicura\x1B[37m.
+
+-\x1B[32m La fragilità del sistema economico\x1B[37m.
+

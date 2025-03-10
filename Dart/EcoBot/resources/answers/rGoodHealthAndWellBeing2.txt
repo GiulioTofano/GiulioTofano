@@ -1,0 +1,8 @@
+\x1B[32mLa salute è una delle dimensioni più rilevanti per valutare la qualità 
+di vita complessiva di una persona. L’Organizzazione Mondiale della Sanità (OMS)
+definisce la salute non solo come l’assenza di malattie, ma anche come
+benessere fisico, mentale e sociale. Il godimento di buona salute permette a 
+un individuo di affrontare le attività quotidiane con soddisfazione, di
+relazionarsi positivamente con gli altri e di affrontare le sfide della vita.
+La salute è, dunque, un valore cruciale per il benessere individuale e collettivo\x1B[37m.
+

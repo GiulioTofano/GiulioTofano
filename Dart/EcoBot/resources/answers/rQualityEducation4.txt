@@ -1,0 +1,14 @@
+I pilastri della didattica inclusiva sono 4 : 
+
+-\x1B[32m Progettazione\x1B[37m. Prevede proprio il disegnare la didattica in base alle 
+caratteristiche, alle abilità e ai bisogni del singolo allievo.
+
+-\x1B[32m Collaborazione\x1B[37m. Consiste nella partecipazione attiva di tutti i soggetti 
+chiamati in causa.
+
+-\x1B[32m Efficacia\x1B[37m. L’efficacia si riferisce alla messa in atto di strategie 
+efficaci per l’intero gruppo classe e non solo per lo studente con difficoltà.
+
+-\x1B[32m Relazioni ed emozioni\x1B[37m. Sono l’ingrediente finale che devono arricchire 
+le metodologie didattiche messe in campo.
+

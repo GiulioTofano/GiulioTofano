@@ -1,0 +1,4 @@
+\x1B[32mL'obiettivo dell'educazione è quello di preparare i giovani 
+a una serie di ruoli che esulano dall'ambito familiare e che in una società
+complessa non sempre possono essere previsti in anticipo\x1B[37m.
+
